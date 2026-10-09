@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Type Effectiveness**: pick an attack type, a defense type(s) or specific defending Pokemon, and see what hits for 4x, 2x, 1x, 1/2x, 1/4x or 0x. The specific defender Pokemon results include extra information for their possible abilities that affect damage nullifactions or multipliers such as Levitate, Thick Fat, Fluffy, Dry Skin and Tera Shell.
+- **Type Effectiveness**: pick an attack type, a defense type(s) or specific defending Pokemon, and see what hits for 4x, 2x, 1x, 1/2x, 1/4x or 0x. The specific defender Pokemon results include extra information for their possible abilities that affect damage nullifications or multipliers such as Levitate, Thick Fat, Fluffy, Dry Skin and Tera Shell.
 - **Pokedex Search**: type part or all of a name to find matching Pokemon.
 - **Pokedex Browse**: browse by Pokedex numbers (in Generational groups), by type, or by ability.
 - **Detail pages**: types, evolution line and method, and abilities with a short combat effect summary, if any (hidden abilities are marked with "HA"). Abilities that do not affect combat are left undefined, as that is beyond the scope of this app.
@@ -27,7 +27,7 @@
 1. Ensure you are running the latest release of Momentum Firmware (mntm-012) on your Flipper Zero.
 2. Download `pokemon_types_fap.zip` and `pokedex_gen.zip` from the [Releases](../../releases) page. Unzip both.
 3. Copy `pokemon_types.fap` to `SD Card/apps/Tools/` on the Flipper.
-4. Unzip the data and copy all the `pokedex_gen*.csv` files to `SD Card/apps_data/pokemon_types/` (create the folder if it does not exist).
+4. Copy all the `pokedex_gen*.csv` files to `SD Card/apps_data/pokemon_types/` (create the folder if it does not exist).
 5. Access on your Flipper Zero via Apps -> Tools -> Pokemon Type Checker.
 
 ### Option B: build it yourself
@@ -39,7 +39,7 @@
 2. Clone this repo and go into it:
    ```
    git clone https://github.com/sauvryn/Flipper-Zero-Pokemon-Type-Checker.git
-   cd flipper-zero-pokemon-type-checker
+   cd Flipper-Zero-Pokemon-Type-Checker
    ```
 3. Connect your Flipper by USB (close qFlipper and the Flipper lab website first, since they hold the serial port) and run:
    ```
