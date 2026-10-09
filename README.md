@@ -24,9 +24,11 @@
 ## Installing
 
 ### Option A: download a release
-1. Download `pokemon_types.fap` and `pokemon_types_data.zip` from the [Releases](../../releases) page.
-2. Copy `pokemon_types.fap` to `SD Card/apps/Tools/` on the Flipper.
-3. Unzip the data and copy all the `pokedex_gen*.csv` files to `SD Card/apps_data/pokemon_types/` (create the folder if it does not exist).
+1. Ensure you are running the latest release of Momentum Firmware (mntm-012) on your Flipper Zero.
+2. Download `pokemon_types_fap.zip` and `pokedex_gen.zip` from the [Releases](../../releases) page. Unzip both.
+3. Copy `pokemon_types.fap` to `SD Card/apps/Tools/` on the Flipper.
+4. Unzip the data and copy all the `pokedex_gen*.csv` files to `SD Card/apps_data/pokemon_types/` (create the folder if it does not exist).
+5. Access on your Flipper Zero via Apps -> Tools -> Pokemon Type Checker.
 
 ### Option B: build it yourself
 1. Install `ufbt`:
