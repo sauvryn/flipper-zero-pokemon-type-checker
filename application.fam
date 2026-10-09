@@ -1,0 +1,10 @@
+App(
+    appid="pokemon_types",
+    name="Pokemon Type Checker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="pokemon_types_app",
+    stack_size=2 * 1024,
+    fap_category="Tools",
+    sources=["pokemon_types.c"],
+	fap_icon="icon.png",
+)
