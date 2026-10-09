@@ -38,8 +38,8 @@
    ```
 2. Clone this repo and go into it:
    ```
-   git clone https://github.com/sauvryn/Flipper-Zero-Pokemon-Type-Checker.git
-   cd Flipper-Zero-Pokemon-Type-Checker
+   git clone https://github.com/sauvryn/flipper-zero-pokemon-type-checker.git
+   cd flipper-zero-pokemon-type-checker
    ```
 3. Connect your Flipper by USB (close qFlipper and the Flipper lab website first, since they hold the serial port) and run:
    ```
