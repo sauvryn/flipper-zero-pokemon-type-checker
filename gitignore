@@ -1,0 +1,19 @@
+# ufbt build output and editor/tool files
+dist/
+build/
+.vscode/
+.clangd
+.cache/
+.sconsign.dblite
+.sconf_temp/
+*.fap
+*.elf
+
+# Windows / macOS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Old scratch data files
+pokedex.csv
+*.zip
