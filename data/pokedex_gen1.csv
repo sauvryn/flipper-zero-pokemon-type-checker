@@ -1,0 +1,152 @@
+Number,Name,Type1,Type2,EvolvesTo,EvoMethod
+1,Bulbasaur,Grass,Poison,Ivysaur,Level 16
+2,Ivysaur,Grass,Poison,Venusaur,Level 32
+3,Venusaur,Grass,Poison,-,-
+4,Charmander,Fire,-,Charmeleon,Level 16
+5,Charmeleon,Fire,-,Charizard,Level 36
+6,Charizard,Fire,Flying,-,-
+7,Squirtle,Water,-,Wartortle,Level 16
+8,Wartortle,Water,-,Blastoise,Level 36
+9,Blastoise,Water,-,-,-
+10,Caterpie,Bug,-,Metapod,Level 7
+11,Metapod,Bug,-,Butterfree,Level 10
+12,Butterfree,Bug,Flying,-,-
+13,Weedle,Bug,Poison,Kakuna,Level 7
+14,Kakuna,Bug,Poison,Beedrill,Level 10
+15,Beedrill,Bug,Poison,-,-
+16,Pidgey,Normal,Flying,Pidgeotto,Level 18
+17,Pidgeotto,Normal,Flying,Pidgeot,Level 36
+18,Pidgeot,Normal,Flying,-,-
+19,Rattata,Normal,-,Raticate,Level 20
+20,Raticate,Normal,-,-,-
+21,Spearow,Normal,Flying,Fearow,Level 20
+22,Fearow,Normal,Flying,-,-
+23,Ekans,Poison,-,Arbok,Level 22
+24,Arbok,Poison,-,-,-
+25,Pikachu,Electric,-,Raichu,Thunder Stone
+26,Raichu,Electric,-,-,-
+27,Sandshrew,Ground,-,Sandslash,Level 22
+28,Sandslash,Ground,-,-,-
+29,Nidoran-F,Poison,-,Nidorina,Level 16
+30,Nidorina,Poison,-,Nidoqueen,Moon Stone
+31,Nidoqueen,Poison,Ground,-,-
+32,Nidoran-M,Poison,-,Nidorino,Level 16
+33,Nidorino,Poison,-,Nidoking,Moon Stone
+34,Nidoking,Poison,Ground,-,-
+35,Clefairy,Normal,-,Clefable,Moon Stone
+36,Clefable,Normal,-,-,-
+37,Vulpix,Fire,-,Ninetales,Fire Stone
+38,Ninetales,Fire,-,-,-
+39,Jigglypuff,Normal,-,Wigglytuff,Moon Stone
+40,Wigglytuff,Normal,-,-,-
+41,Zubat,Poison,Flying,Golbat,Level 22
+42,Golbat,Poison,Flying,-,-
+43,Oddish,Grass,Poison,Gloom,Level 21
+44,Gloom,Grass,Poison,Vileplume,Leaf Stone
+45,Vileplume,Grass,Poison,-,-
+46,Paras,Bug,Grass,Parasect,Level 24
+47,Parasect,Bug,Grass,-,-
+48,Venonat,Bug,Poison,Venomoth,Level 31
+49,Venomoth,Bug,Poison,-,-
+50,Diglett,Ground,-,Dugtrio,Level 26
+51,Dugtrio,Ground,-,-,-
+52,Meowth,Normal,-,Persian,Level 28
+53,Persian,Normal,-,-,-
+54,Psyduck,Water,-,Golduck,Level 33
+55,Golduck,Water,-,-,-
+56,Mankey,Fighting,-,Primeape,Level 28
+57,Primeape,Fighting,-,-,-
+58,Growlithe,Fire,-,Arcanine,Fire Stone
+59,Arcanine,Fire,-,-,-
+60,Poliwag,Water,-,Poliwhirl,Level 25
+61,Poliwhirl,Water,-,Poliwrath,Water Stone
+62,Poliwrath,Water,Fighting,-,-
+63,Abra,Psychic,-,Kadabra,Level 16
+64,Kadabra,Psychic,-,Alakazam,Trade
+65,Alakazam,Psychic,-,-,-
+66,Machop,Fighting,-,Machoke,Level 28
+67,Machoke,Fighting,-,Machamp,Trade
+68,Machamp,Fighting,-,-,-
+69,Bellsprout,Grass,Poison,Weepinbell,Level 21
+70,Weepinbell,Grass,Poison,Victreebel,Leaf Stone
+71,Victreebel,Grass,Poison,-,-
+72,Tentacool,Water,Poison,Tentacruel,Level 30
+73,Tentacruel,Water,Poison,-,-
+74,Geodude,Rock,Ground,Graveler,Level 25
+75,Graveler,Rock,Ground,Golem,Trade
+76,Golem,Rock,Ground,-,-
+77,Ponyta,Fire,-,Rapidash,Level 40
+78,Rapidash,Fire,-,-,-
+79,Slowpoke,Water,Psychic,Slowbro,Level 37
+80,Slowbro,Water,Psychic,-,-
+81,Magnemite,Electric,-,Magneton,Level 30
+82,Magneton,Electric,-,-,-
+83,Farfetch'd,Normal,Flying,-,-
+84,Doduo,Normal,Flying,Dodrio,Level 31
+85,Dodrio,Normal,Flying,-,-
+86,Seel,Water,-,Dewgong,Level 34
+87,Dewgong,Water,Ice,-,-
+88,Grimer,Poison,-,Muk,Level 38
+89,Muk,Poison,-,-,-
+90,Shellder,Water,-,Cloyster,Water Stone
+91,Cloyster,Water,Ice,-,-
+92,Gastly,Ghost,Poison,Haunter,Level 25
+93,Haunter,Ghost,Poison,Gengar,Trade
+94,Gengar,Ghost,Poison,-,-
+95,Onix,Rock,Ground,-,-
+96,Drowzee,Psychic,-,Hypno,Level 26
+97,Hypno,Psychic,-,-,-
+98,Krabby,Water,-,Kingler,Level 28
+99,Kingler,Water,-,-,-
+100,Voltorb,Electric,-,Electrode,Level 30
+101,Electrode,Electric,-,-,-
+102,Exeggcute,Grass,Psychic,Exeggutor,Leaf Stone
+103,Exeggutor,Grass,Psychic,-,-
+104,Cubone,Ground,-,Marowak,Level 28
+105,Marowak,Ground,-,-,-
+106,Hitmonlee,Fighting,-,-,-
+107,Hitmonchan,Fighting,-,-,-
+108,Lickitung,Normal,-,-,-
+109,Koffing,Poison,-,Weezing,Level 35
+110,Weezing,Poison,-,-,-
+111,Rhyhorn,Ground,Rock,Rhydon,Level 42
+112,Rhydon,Ground,Rock,-,-
+113,Chansey,Normal,-,-,-
+114,Tangela,Grass,-,-,-
+115,Kangaskhan,Normal,-,-,-
+116,Horsea,Water,-,Seadra,Level 32
+117,Seadra,Water,-,-,-
+118,Goldeen,Water,-,Seaking,Level 33
+119,Seaking,Water,-,-,-
+120,Staryu,Water,-,Starmie,Water Stone
+121,Starmie,Water,Psychic,-,-
+122,Mr. Mime,Psychic,-,-,-
+123,Scyther,Bug,Flying,-,-
+124,Jynx,Ice,Psychic,-,-
+125,Electabuzz,Electric,-,-,-
+126,Magmar,Fire,-,-,-
+127,Pinsir,Bug,-,-,-
+128,Tauros,Normal,-,-,-
+129,Magikarp,Water,-,Gyarados,Level 20
+130,Gyarados,Water,Flying,-,-
+131,Lapras,Water,Ice,-,-
+132,Ditto,Normal,-,-,-
+133,Eevee,Normal,-,Vaporeon/Jolteon/Flareon,Water Stone/Thunder Stone/Fire Stone
+134,Vaporeon,Water,-,-,-
+135,Jolteon,Electric,-,-,-
+136,Flareon,Fire,-,-,-
+137,Porygon,Normal,-,-,-
+138,Omanyte,Rock,Water,Omastar,Level 40
+139,Omastar,Rock,Water,-,-
+140,Kabuto,Rock,Water,Kabutops,Level 40
+141,Kabutops,Rock,Water,-,-
+142,Aerodactyl,Rock,Flying,-,-
+143,Snorlax,Normal,-,-,-
+144,Articuno,Ice,Flying,-,-
+145,Zapdos,Electric,Flying,-,-
+146,Moltres,Fire,Flying,-,-
+147,Dratini,Dragon,-,Dragonair,Level 30
+148,Dragonair,Dragon,-,Dragonite,Level 55
+149,Dragonite,Dragon,Flying,-,-
+150,Mewtwo,Psychic,-,-,-
+151,Mew,Psychic,-,-,-
